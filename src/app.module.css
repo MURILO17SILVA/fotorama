@@ -1,0 +1,18 @@
+.buttonContainer {
+  display: flex;
+  justify-content: right;
+}
+.flagButton {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  overflow: hidden;
+  cursor: pointer;
+  outline: none;
+  width: 52px;
+  padding: 1;
+  margin-right: 15px;
+}
+.flagButton img {
+  width: 100%;
+}
